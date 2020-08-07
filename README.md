@@ -16,7 +16,7 @@
 
 ## 快速上手
 ### 使用之前
-由于原版存在诸多BUG，且现今已无人维护。所以本人于闲暇之余维护该UI，尝试修复相关BUG。
+由于原版存在诸多BUG，且现今已无人维护。所以本人于闲暇之余维护该UI，尝试修复相关BUG。<br/>
 在开始使用 vtu Weapp 之前，你需要先阅读 [微信小程序自定义组件](https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/) 的相关文档。
 
 ### 如何使用
